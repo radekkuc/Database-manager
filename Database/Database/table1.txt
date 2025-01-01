@@ -1,0 +1,6 @@
+Name,Age,Country
+Juan,20,Spain
+Hannah,25,Germany
+Witold,25,Poland
+Victor,26,Czech
+Michael,35,USA
